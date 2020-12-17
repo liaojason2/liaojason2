@@ -1,21 +1,25 @@
+---
+title: Github Personal Info
+---
 ### Hi, this is Huan-Chieh (Jason) Liao's Github 👋
 #### 😃 Current Status 
 A Student who interests in computer science, finance and cares about education topics.
 
-Studying in Taipei Municipal Lishan Senior High School, and I will be transferred as a Homeschooling student after February 2021.
+Studying at Taipei Municipal Lishan Senior High School, and I will be transferred as a Homeschooling student after February 2021.
 
 I'm not an English expert. If there is any mistake, please report to me, and I will fix it immediately.
 #### 👨🏻‍💻 Currently working on 
-- CBFHSS (Chatbot for High School Students)
+- [CBFHSS](fb.me/cbfhss) (Chatbot for High School Students)
     - Co-Founder & Backend Developer
     - CBFHSS is a chatbot helping students sharing the daily burden, also helping education digital transformation (EdTech).
     - CBFHSSv2 is now in development and will be released a beta version a few weeks later.
-- AIS3 EOF
+- [AIS3 EOF](ais3.org/eof)
     - CTF competition in January 2021.
 #### 🌱 Currently learning in 
 - Coursera
     - [Google IT Automation with Python](https://www.coursera.org/professional-certificates/google-it-automation) (2/6 Courses Finished)
-    - [Google IT Support](https://www.coursera.org/professional-certificates/google-it-support) (Plan to start in 2021 Q1)
+    - [Google IT Support](https://www.coursera.org/professional-certificates/google-it-support) (Plan to start at 2021 Q1)
+    - [Introdution to Cybersecurity](https://www.coursera.org/specializations/intro-cyber-security) (Plan to start at 2021 Q1)
 #### 👨🏼‍🔧 Skills
 - Programming Language
     - C
@@ -26,6 +30,10 @@ I'm not an English expert. If there is any mistake, please report to me, and I w
     - Google Sheet API
 - Basic Cybersecurity
 - Database
+- Web Service
+    - Amazon Web Service (AWS)
+    - Google Cloud Platform (GCP)
+    - Heroku
 - Web Server
     - nginx
 - Web Hosting on Virtual Machine
