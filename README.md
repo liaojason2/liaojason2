@@ -1,10 +1,10 @@
 ### Hi, this is Huan-Chieh (Jason) Liao's Github 👋
 #### 😃 Current Status 
-Students who interest in computer science, financial and care about education topics.
+A Student who interests in computer science, finance and cares about education topics.
 
-Studying in Taipei Municipal Lishan Senior High School, I will be transferred as a Homeschooling student after February 2021.
+Studying in Taipei Municipal Lishan Senior High School, and I will be transferred as a Homeschooling student after February 2021.
 
-I'm not an English expert, please report any mistakes to me, and I will fix it immediately.
+I'm not an English expert. If there is any mistake, please report to me, and I will fix it immediately.
 #### 👨🏻‍💻 Currently working on 
 - CBFHSS (Chatbot for High School Students)
     - Co-Founder & Backend Developer
