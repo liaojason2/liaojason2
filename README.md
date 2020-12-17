@@ -4,7 +4,7 @@ Students who interest in computer science, financial and care about education to
 
 Studying in Taipei Municipal Lishan Senior High School, I will be transferred as a Homeschooling student after February 2021.
 
-I'm not an English expert, Please report any mistakes to me, and I will fix them.
+I'm not an English expert, please report any mistakes to me, and I will fix them immediately.
 #### 👨🏻‍💻 Currently working on 
 - CBFHSS (Chatbot for High School Students)
     - Co-Founder & Backend Developer
