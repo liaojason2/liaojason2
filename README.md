@@ -1,3 +1,4 @@
+[![hackmd-github-sync-badge](https://hackmd.io/MFurtAWqQfC7uhGXPIfz5A/badge)](https://hackmd.io/MFurtAWqQfC7uhGXPIfz5A)
 ### Hi, this is Huan-Chieh (Jason) Liao's Github 👋
 #### 😃 Current Status 
 Students who interest in computer science, financial and care about education topics.
