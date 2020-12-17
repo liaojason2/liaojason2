@@ -1,6 +1,3 @@
----
-title: Github Personal Info
----
 ### Hi, this is Huan-Chieh (Jason) Liao's Github 👋
 #### 😃 Current Status 
 A Student who interests in computer science, finance and cares about education topics.
