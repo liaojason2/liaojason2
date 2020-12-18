@@ -6,11 +6,11 @@ Studying at Taipei Municipal Lishan Senior High School, and I will be transferre
 
 I'm not an English expert. If there is any mistake, please report to me, and I will fix it immediately.
 #### 👨🏻‍💻 Currently working on 
-- [CBFHSS](fb.me/cbfhss) (Chatbot for High School Students)
+- [CBFHSS](https://fb.me/cbfhss) (Chatbot for High School Students)
     - Co-Founder & Backend Developer
     - CBFHSS is a chatbot helping students sharing the daily burden, also helping education digital transformation (EdTech).
     - CBFHSSv2 is now in development and will be released a beta version a few weeks later.
-- [AIS3 EOF](ais3.org/eof)
+- [AIS3 EOF](https://ais3.org/eof)
     - CTF competition in January 2021.
 #### 🌱 Currently learning in 
 - Coursera
@@ -36,8 +36,8 @@ I'm not an English expert. If there is any mistake, please report to me, and I w
 - Web Hosting on Virtual Machine
 #### 📫 How to reach me
 - Social Media
-    - [Facebook](fb.me/liaojason2)
-    - [Instagram](instagram.com/liao.jason2)
+    - [Facebook](https://fb.me/liaojason2)
+    - [Instagram](https://instagram.com/liao.jason2)
 - Email
     - liao.jason2@gmail.com 
 
