@@ -1,10 +1,26 @@
+---
+title: Github Personal Info
+---
 ### Hi, this is Huan-Chieh (Jason) Liao's Github 👋
 #### 😃 Current Status 
-A Student who interests in computer science, finance and cares about education topics.
+A student who interests in computer science, finance and cares about education topics.
 
 Studying at Taipei Municipal Lishan Senior High School, and I will be transferred as a Homeschooling student after February 2021.
 
 I'm not an English expert. If there is any mistake, please report to me, and I will fix it immediately.
+#### 🐱 History
+- Handle`liao.jason2`
+    - Create at 2007
+    - Pre-Kindergarten
+    - Some of the websites cannot use `.`, `liaojason2`also represent me.
+- First submit at judge system
+    - November 14, 2014
+    - Grade 7, Junior High school
+#### 🏆 Award 
+- AWS Hack for Good 2020
+    - Final Pitch
+- g0v Sch001
+    - Top 5 selected teams
 #### 👨🏻‍💻 Currently working on 
 - [CBFHSS](https://fb.me/cbfhss) (Chatbot for High School Students)
     - Co-Founder & Backend Developer
@@ -25,6 +41,9 @@ I'm not an English expert. If there is any mistake, please report to me, and I w
 - APIs
     - LINE Bot API
     - Google Sheet API
+- Framework
+    - Python
+        - Django
 - Basic Cybersecurity
 - Database
 - Web Service
@@ -38,8 +57,12 @@ I'm not an English expert. If there is any mistake, please report to me, and I w
 - Social Media
     - [Facebook](https://fb.me/liaojason2)
     - [Instagram](https://instagram.com/liao.jason2)
+    - [Medium](https://medium.com/@liao.jason2)
 - Email
     - liao.jason2@gmail.com 
+#### 💰 Donation
+- [PayPal](https://paypal.me/liaojason2)
+
 
 <!--
 **liaojason2/liaojason2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
