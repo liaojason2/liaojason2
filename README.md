@@ -14,13 +14,20 @@ I'm not an English expert. If there is any mistake, please report to me, and I w
     - Pre-Kindergarten
     - Some of the websites cannot use `.`, `liaojason2`also represent me.
 - First submit at judge system
+    - [Zerojudge](https://zerojudge.tw/)
     - November 14, 2014
     - Grade 7, Junior High school
 #### 🏆 Award 
-- AWS Hack for Good 2020
+- MyFirstCTF
+    - 2018
+    - Bronze Award
+- AWS Hack for Good Taiwan 
+    - 2020
     - Final Pitch
 - g0v Sch001
+    - 2020
     - Top 5 selected teams
+- [Github Most Active User in Taiwan](https://commits.top/taiwan_private.html)
 #### 👨🏻‍💻 Currently working on 
 - [CBFHSS](https://fb.me/cbfhss) (Chatbot for High School Students)
     - Co-Founder & Backend Developer
@@ -29,10 +36,27 @@ I'm not an English expert. If there is any mistake, please report to me, and I w
 - [AIS3 EOF](https://ais3.org/eof)
     - CTF competition in January 2021.
 #### 🌱 Currently learning in 
+- Topic
+    - IT Skills
+    - DevOps
+    - Cybersecurity
+    - Data science for chatbot
 - Coursera
-    - [Google IT Automation with Python](https://www.coursera.org/professional-certificates/google-it-automation) (2/6 Courses Finished)
-    - [Google IT Support](https://www.coursera.org/professional-certificates/google-it-support) (Plan to start at 2021 Q1)
-    - [Introdution to Cybersecurity](https://www.coursera.org/specializations/intro-cyber-security) (Plan to start at 2021 Q1)
+    - Professional Certificate
+        - [Google IT Automation with Python](https://www.coursera.org/professional-certificates/google-it-automation)
+            - [Crash Course on Python](https://www.coursera.org/account/accomplishments/certificate/ZTAWNP7ZJJX3)
+            - [Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/certificate/HTVXBF8MQ4WD) 
+        - [Google IT Support](https://www.coursera.org/professional-certificates/google-it-support)
+        - [Introdution to Cybersecurity](https://www.coursera.org/specializations/intro-cyber-security)
+        - [Customer Experiences with Contact Center AI Specialization](https://www.coursera.org/specializations/customer-experience-gcp)
+        - [Google Cloud Security Professional Certificate](https://www.coursera.org/professional-certificates/google-cloud-security)
+    - Course
+        - [Building Conversational Experiences with Dialogflow](https://www.coursera.org/learn/conversational-experiences-dialogflow)
+#### 🏫 Dream School
+- School 42 [FR](https://www.42.fr/) / [US](https://www.42.us.org/)
+- [CCEP](https://ccep.ncku.edu.tw/) @ National Cheng Kung University
+- Computer Science @ [NTUST](https://www.csie.ntust.edu.tw/) / [NCKU](http://www.csie.ncku.edu.tw/ncku_csie/)
+- [IPTH](http://ipth.site.nthu.edu.tw/) @ National Tsing Hua University
 #### 👨🏼‍🔧 Skills
 - Programming Language
     - C
