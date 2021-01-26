@@ -37,10 +37,14 @@ I'm not an English expert. If there is any mistake, please report to me, and I w
     - CTF competition in January 2021.
 #### 🌱 Currently learning in 
 - Topic
+    - [JavaScript](https://github.com/liaojason2/javascript_practice)
+        - Vue.js
+        - React
+        - Express
     - IT Skills
     - DevOps
     - Cybersecurity
-    - Data science for chatbot
+    - Data science for Chatbot
 - Coursera
     - Professional Certificate
         - [Google IT Automation with Python](https://www.coursera.org/professional-certificates/google-it-automation)
