@@ -42,7 +42,7 @@ I'm not an English expert. If there is any mistake, please report to me, and I w
     - [Google IT Support](https://www.coursera.org/professional-certificates/google-it-support)
 - DevOps
 - Web Development
-    - [Full-Stack Web Development with React Specialization] (https://www.coursera.org/specializations/full-stack-react)
+    - [Full-Stack Web Development with React Specialization](https://www.coursera.org/specializations/full-stack-react)
 - Cybersecurity
     - Introdution to Cybersecurity NTUST / [Coursera](https://www.coursera.org/specializations/intro-cyber-security)
     - [Google Cloud Security Professional Certificate](https://www.coursera.org/professional-certificates/google-cloud-security)
