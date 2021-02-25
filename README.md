@@ -1,11 +1,8 @@
----
-title: Github Personal Info
----
+# Github Personal Info
+###### tags: `Personal` `Github`
 ### Hi, this is Huan-Chieh (Jason) Liao's Github 👋
 #### 😃 Current Status 
-A student who interests in computer science, finance and cares about education topics.
-
-Studying at Taipei Municipal Lishan Senior High School, and I will be transferred as a Homeschooling student after February 2021.
+A unschooled student who interests in computer science, finance and cares about education topics.
 
 I'm not an English expert. If there is any mistake, please report to me, and I will fix it immediately.
 #### 🐱 History
@@ -13,6 +10,9 @@ I'm not an English expert. If there is any mistake, please report to me, and I w
     - Create at 2007
     - Pre-Kindergarten
     - Some of the websites cannot use `.`, `liaojason2`also represent me.
+- Education
+    - Taipei Municipal Lishan Senior High School
+        - (2018.8~2021.1)
 - First submit at judge system
     - [Zerojudge](https://zerojudge.tw/)
     - November 14, 2014
@@ -32,30 +32,23 @@ I'm not an English expert. If there is any mistake, please report to me, and I w
 - [CBFHSS](https://fb.me/cbfhss) (Chatbot for High School Students)
     - Co-Founder & Backend Developer
     - CBFHSS is a chatbot helping students sharing the daily burden, also helping education digital transformation (EdTech).
-    - CBFHSSv2 is now in development and will be released a beta version a few weeks later.
-- [AIS3 EOF](https://ais3.org/eof)
-    - CTF competition in January 2021.
-#### 🌱 Currently learning in 
-- Topic
-    - [JavaScript](https://github.com/liaojason2/javascript_practice)
-        - Vue.js
-        - React
-        - Express
-    - IT Skills
-    - DevOps
-    - Cybersecurity
-    - Data science for Chatbot
-- Coursera
-    - Professional Certificate
-        - [Google IT Automation with Python](https://www.coursera.org/professional-certificates/google-it-automation)
-            - [Crash Course on Python](https://www.coursera.org/account/accomplishments/certificate/ZTAWNP7ZJJX3)
-            - [Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/certificate/HTVXBF8MQ4WD) 
-        - [Google IT Support](https://www.coursera.org/professional-certificates/google-it-support)
-        - [Introdution to Cybersecurity](https://www.coursera.org/specializations/intro-cyber-security)
-        - [Customer Experiences with Contact Center AI Specialization](https://www.coursera.org/specializations/customer-experience-gcp)
-        - [Google Cloud Security Professional Certificate](https://www.coursera.org/professional-certificates/google-cloud-security)
-    - Course
-        - [Building Conversational Experiences with Dialogflow](https://www.coursera.org/learn/conversational-experiences-dialogflow)
+#### 🌱 Currently learning in
+- [JavaScript](https://github.com/liaojason2/javascript_practice)
+    - Vue.js
+    - React
+    - Express.js
+- IT Skills
+    - [Google IT Automation with Python](https://www.coursera.org/professional-certificates/google-it-automation)
+    - [Google IT Support](https://www.coursera.org/professional-certificates/google-it-support)
+- DevOps
+- Web Development
+    - [Full-Stack Web Development with React Specialization] (https://www.coursera.org/specializations/full-stack-react)
+- Cybersecurity
+    - Introdution to Cybersecurity NTUST / [Coursera](https://www.coursera.org/specializations/intro-cyber-security)
+    - [Google Cloud Security Professional Certificate](https://www.coursera.org/professional-certificates/google-cloud-security)
+- AI / ML / Data Science
+    - [Customer Experiences with Contact Center AI Specialization](https://www.coursera.org/specializations/customer-experience-gcp)
+    - [Building Conversational Experiences with Dialogflow](https://www.coursera.org/learn/conversational-experiences-dialogflow)
 #### 🏫 Dream School
 - School 42 [FR](https://www.42.fr/) / [US](https://www.42.us.org/)
 - [CCEP](https://ccep.ncku.edu.tw/) @ National Cheng Kung University
