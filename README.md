@@ -33,19 +33,11 @@ I'm not an English expert. If there is any mistake, please report to me, and I w
     - Co-Founder & Backend Developer
     - CBFHSS is a chatbot helping students sharing the daily burden, also helping education digital transformation (EdTech).
 #### 🌱 Currently learning in
+- [My Learning Progress](https://github.com/liaojason2/learning_progress_and_resource)
 - [JavaScript](https://github.com/liaojason2/javascript_practice)
     - Vue.js
     - React
     - Express.js
-- IT Skills
-    - [Google IT Automation with Python](https://www.coursera.org/professional-certificates/google-it-automation)
-    - [Google IT Support](https://www.coursera.org/professional-certificates/google-it-support)
-- DevOps
-- Web Development
-    - [Full-Stack Web Development with React Specialization](https://www.coursera.org/specializations/full-stack-react)
-- Cybersecurity
-    - Introdution to Cybersecurity NTUST / [Coursera](https://www.coursera.org/specializations/intro-cyber-security)
-    - [Google Cloud Security Professional Certificate](https://www.coursera.org/professional-certificates/google-cloud-security)
 - AI / ML / Data Science
     - [Customer Experiences with Contact Center AI Specialization](https://www.coursera.org/specializations/customer-experience-gcp)
     - [Building Conversational Experiences with Dialogflow](https://www.coursera.org/learn/conversational-experiences-dialogflow)
