@@ -6,7 +6,7 @@ A homeschooling student who interests in computer science, finance and cares abo
 
 I'm not an English expert. If there is any mistake, please report to me, and I will fix it immediately.
 
-Get More information on my [CV](https://www.cakeresume.com/liao-jason2), click [here](
+Get my personal information on my [CV](https://www.cakeresume.com/liao-jason2), click [here](
 https://github.com/liaojason2/learning_progress_and_resource) to know what I'm learning now!
 ### GitHub status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liaojason2&count_private=true&show_icons=true&theme=radical)
