@@ -16,7 +16,7 @@ https://github.com/liaojason2/learning_progress_and_resource) to know what I'm l
 - [CBFHSS](https://fb.me/cbfhss) (Chatbot for High School Students)
     - Co-Founder & Backend Developer
     - CBFHSS is a chatbot helping students sharing the daily burden, also helping education digital transformation (EdTech).
-- [Health Declaration Form](https://www.github.com/liaojason2/health-declaration-form) 
+- [Health Declaration Form](https://www.github.com/liaojason2/covid19-health-declaration-form) 
     - DSC Hackathon project
 ### 🐱 Important History
 - Handle`liao.jason2`
