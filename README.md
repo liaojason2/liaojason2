@@ -12,7 +12,6 @@ https://github.com/liaojason2/learning_progress_and_resource) to know what I'm l
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liaojason2&count_private=true&show_icons=true&theme=radical)
 )](https://github.com/anuraghazra/github-readme-stats)
 ### 👨🏻‍💻 Currently working on
-- Looking for Intern or Jobs!
 - [CBFHSS](https://fb.me/cbfhss) (Chatbot for High School Students)
     - Co-Founder & Backend Developer
     - CBFHSS is a chatbot helping students sharing the daily burden, also helping education digital transformation (EdTech).
