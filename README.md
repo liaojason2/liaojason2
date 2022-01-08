@@ -9,8 +9,7 @@ I'm not an English expert. If there is any mistake, please report to me, and I w
 Get my personal information on my [CV](https://resume.io/r/VDpoIN0bb), click [here](
 https://github.com/liaojason2/learning_progress_and_resource) to know what I'm learning now!
 ### GitHub status
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liaojason2&count_private=true&show_icons=true&theme=radical)
-)](https://github.com/anuraghazra/github-readme-stats)
+![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=liaojason2&count_private=true&show_icons=true&theme=radical)
 ### 👨🏻‍💻 Currently working on
 - [SoftChef](https://github.com/softchef) IoT Enginner Intern (Part-time)
   - [liaojason2softchef](https://github.com/liaojason2softchef)
