@@ -1,8 +1,8 @@
-# Github Personal Info
+# GitHub Personal Info
 
-###### tags: `Personal` `Github`
+###### tags: `Personal` `GitHub`
 
-## Hi, this is Huan-Chieh (Jason) Liao's Github 👋
+## Hi, this is Huan-Chieh (Jason) Liao's GitHub 👋
 
 ### 😃 About me
 
@@ -65,7 +65,7 @@ https://github.com/liaojason2/learning_progress_and_resource) to know what I'm l
 - g0v Sch001
     - 2020
     - Top 5 selected teams
-- [Github Most Active User in Taiwan](https://commits.top/taiwan_private.html)
+- [GitHub Most Active User in Taiwan](https://commits.top/taiwan_private.html)
 #### 🌱 Currently learning in
 [JavaScript](https://github.com/liaojason2/javascript_practice)
     - Vue.js
