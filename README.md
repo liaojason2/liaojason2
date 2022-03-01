@@ -6,12 +6,11 @@
 
 ### 😃 About me
 
-A homeschooling student who interests in computer science, finance and cares about education topics. 
+A homeschooling student who interests in computer science, finance and cares about education topics.
 
 I'm not an English expert. If there is any mistake, please report to me, and I will fix it immediately.
 
-Get my personal information on my [CV](https://resume.io/r/VDpoIN0bb), click [here](
-https://github.com/liaojason2/learning_progress_and_resource) to know what I'm learning now!
+Get my personal information on my [CV](https://resume.io/r/VDpoIN0bb), click [here](https://github.com/liaojason2/learning_progress_and_resource) to know what I'm learning now!
 
 ### GitHub status
 
@@ -19,13 +18,11 @@ https://github.com/liaojason2/learning_progress_and_resource) to know what I'm l
 
 ### 👨🏻‍💻 Currently working on
 
-- [SoftChef](https://github.com/softchef) IoT Enginner Intern (Part-time)
-  - [liaojason2softchef](https://github.com/liaojason2softchef)
-  - Develop app with AWS API Gateway, Lambda, DynomoDB, IoT Core, Alexa Skill Kit.
+- BRICKS DevOps
 - [CBFHSS](https://fb.me/cbfhss) (Chatbot for High School Students)
   - Co-Founder & Backend Developer
   - CBFHSS is a chatbot helping students sharing the daily burden, also helping education digital transformation (EdTech).
-- [Health Declaration Form](https://www.github.com/liaojason2/covid19-health-declaration-form) 
+- [Health Declaration Form](https://www.github.com/liaojason2/covid19-health-declaration-form)
   - DSC Hackathon project
 
 ### 🐱 Important History
@@ -53,13 +50,12 @@ https://github.com/liaojason2/learning_progress_and_resource) to know what I'm l
 - [PayPal](https://paypal.me/liaojason2)
 - [Ko-fi](https://ko-fi.com/liaojason2)
 
-
 <!--
-#### 🏆 Award 
+#### 🏆 Award
 - MyFirstCTF
     - 2018
     - Bronze Award
-- AWS Hack for Good Taiwan 
+- AWS Hack for Good Taiwan
     - 2020
     - Final Pitch
 - g0v Sch001
@@ -77,7 +73,6 @@ https://github.com/liaojason2/learning_progress_and_resource) to know what I'm l
 - Computer Science @ [NTUST](https://www.csie.ntust.edu.tw/) / [NCKU](http://www.csie.ncku.edu.tw/ncku_csie/)
 - [IPTH](http://ipth.site.nthu.edu.tw/) @ National Tsing Hua University-->
 
-
 <!--
 **liaojason2/liaojason2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -92,5 +87,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
