@@ -2,7 +2,7 @@
 
 ###### tags: `Personal` `GitHub`
 
-## Hi, this is Jason (Huan-Chieh) Liao's GitHub 👋
+## Hi, this is Huan-Chieh (Jason) Liao's GitHub 👋
 
 ### 😃 About me
 
