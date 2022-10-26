@@ -4,7 +4,7 @@
 
 ## Hi, this is Huan-Chieh (Jason) Liao's GitHub 👋
 
-### About me
+## 🖐 About me
 
 ![handle batch](https://badgen.net/badge/handle/liaojason2/green)
 
@@ -26,7 +26,7 @@ Get my personal information on my [CV](https://resume.io/r/VDpoIN0bb), click [he
   - Grade 7, Junior High school
 -->
 
-### GitHub status
+## 📔 GitHub status
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liaojason2&layout=compact&theme=radical&hide=kotlin)](https://github.com/anuraghazra/github-readme-stats)]
 [![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=liaojason2&include_all_commits=true&count_private=true&show_icons=true&theme=radical)]
@@ -41,7 +41,7 @@ Get my personal information on my [CV](https://resume.io/r/VDpoIN0bb), click [he
 - [Health Declaration Form](https://www.github.com/liaojason2/covid19-health-declaration-form)
   - DSC Hackathon project-->
 
-### ✨ Skills
+## ✨ Skills
 
 - Programming Language
   - C/C++ (Competive Programming, Python（Django, Flask), JavaScript（React, React Native, Express.js)
@@ -55,18 +55,18 @@ Get my personal information on my [CV](https://resume.io/r/VDpoIN0bb), click [he
 - DevOps
   - Docker, GitHub Action, Terraform, Unit test
 
-### 👨🏻‍💻 Projects
+## 👨🏻‍💻 Projects
 
 - [Programming Problem Solving](https://github.com/liaojason2/programming-problem-solving)
 
-#### Server
+### Server
 
 - [BRICKS MicroMDM](https://github.com/mybigday/micromdm)  
   ![golang version](https://img.shields.io/github/go-mod/go-version/mybigday/micromdm?logo=go)
   [![last commit](https://img.shields.io/github/last-commit/liaojason2/justin-ramen-telegram-bot)]()
   ![maintained](https://img.shields.io/maintenance/yes/2022)
 
-#### Bots
+### Bots
 
 - [Justin Ramen Bot](https://www.github.com/liaojason2/justin-ramen-telegram-bot)  
   [![release](https://img.shields.io/github/v/release/liaojason2/justin-ramen-telegram-bot?logo=github&logoColor=white)](https://github.com/liaojason2/justin-ramen-telegram-bot/releases/latest)
@@ -89,7 +89,7 @@ Get my personal information on my [CV](https://resume.io/r/VDpoIN0bb), click [he
   [![last commit](https://img.shields.io/github/last-commit/CBFHSS/CBFHSS_students)]()
   [![maintained](https://img.shields.io/maintenance/no/2020)]()-->
   
-#### Website / Web Service
+### Website / Web Service
 
 - [Taiwan Education Assosiate Official Website](https://www.github.com/twedua/twedua.github.io)  
   [![release](https://img.shields.io/github/v/release/twedua/twedua.github.io?logo=github&logoColor=white)](https://github.com/twedua/twedua.github.io/commits/main)
@@ -102,7 +102,7 @@ Get my personal information on my [CV](https://resume.io/r/VDpoIN0bb), click [he
   [![last commit](https://img.shields.io/github/last-commit/liaojason2/covid19-health-declaration-form)]()
   [![maintained](https://img.shields.io/maintenance/no/2021)]()
 
-#### Tutorial / Example / Note
+### Tutorial / Example / Note
 
 - [Computer Programming Note](https://github.com/liaojason2/computer_programming_note)  
   [![star](https://img.shields.io/github/stars/liaojason2/computer_programming_note)]()
@@ -117,17 +117,17 @@ Get my personal information on my [CV](https://resume.io/r/VDpoIN0bb), click [he
   [![last commit](https://img.shields.io/github/last-commit/liaojason2/vscode-cpp-for-mac)]()
   [![maintained](https://img.shields.io/maintenance/yes/2022)]()
 
-#### Contributions
+### Contributions
 
 - [Add Deploy server to Cloud Run Solution](https://github.com/yc97463/rpage-announcement-api/pull/1)
 - [CDK IoT Device Management Documents](https://github.com/SoftChef/cdk-iot-device-management)
 
-### 🏆 Award
+## 🏆 Award
 
-- 2018 MyFirstCTF Bronze Award
 - 2020 AWS Hack for Good Taiwan Final Pitch
+- 2018 MyFirstCTF Bronze Award
 
-### 💰 Donation
+## 💰 Donation
 
 - [PayPal](https://paypal.me/liaojason2)
 - [Ko-fi](https://ko-fi.com/liaojason2)
