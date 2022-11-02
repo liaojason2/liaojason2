@@ -8,7 +8,7 @@
 
 ![handle batch](https://badgen.net/badge/handle/liaojason2/green)
 
-I'm a graduated high school homeschooling student. Major in backend development, cloud service, and fundamental cybersecurity. Interests in computer programming, finance, and care about education topics.
+I'm a graduated high school homeschooling student. Major in backend development and cloud service. Interests in computer programming, finance, and care about education topics.
 
 I'm not an English expert. If there is any mistake, please report to me, and I will fix it immediately.
 
